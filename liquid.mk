@@ -9,6 +9,6 @@ TARGET_SCREEN_WIDTH := 720
 TARGET_SCREEN_HEIGHT := 1280
 
 # Release name
-PRODUCT_NAME := liquid_moto_msm8960_legacy
+PRODUCT_NAME := liquid_moto_msm8960_jbbl
 
-$(call inherit-product, device/motorola/moto_msm8960_legacy/full_moto_msm8960.mk)
+$(call inherit-product, device/motorola/moto_msm8960_jbbl/full_moto_msm8960.mk)
